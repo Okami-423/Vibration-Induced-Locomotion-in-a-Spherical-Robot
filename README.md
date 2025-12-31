@@ -6,17 +6,23 @@ The robot uses four vibrating motors mounted inside a spherical shell, arranged 
 
 A gas sensor is integrated into the system to continuously monitor the surrounding environment for hazardous gas leaks. When gas concentration exceeds a predefined threshold, the robot can log, transmit, or indicate the presence of a leak, enabling early detection in unsafe areas without direct human intervention.
 
-##Key Features
+## Key Features
 
-*Vibration-based locomotion (no wheels or legs)
+- Vibration-based locomotion (no wheels or legs)
 
-*4 angled vibrating motors (120° configuration, 2 per side)
+- 4 angled vibrating motors (120° configuration, 2 per side)
 
-Spherical design for omnidirectional movement
+- Spherical design for omnidirectional movement
 
-Gas leak detection for hazardous environments
+- Gas leak detection for hazardous environments
 
-Suitable for debris, rubble, and confined spaces
+- Suitable for debris, rubble, and confined spaces
+
+## Purpose & Applications
+- Search and rescue operations
+- Gas leak detection in collapsed buildings
+- Inspection of confined or hazardous environments
+- Disaster response robotics research
 
 <img width="1920" height="1080" alt="Ball_Bot v6" src="https://github.com/user-attachments/assets/4a45c339-c670-400d-b1d3-11b18d382bb4" />
 
