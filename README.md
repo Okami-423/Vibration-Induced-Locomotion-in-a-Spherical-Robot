@@ -24,6 +24,8 @@ A gas sensor is integrated into the system to continuously monitor the surroundi
 - Inspection of confined or hazardous environments
 - Disaster response robotics research
 
+<mark>This project explores non-traditional robotic locomotion using vibration and demonstrates its effectiveness in environments where conventional mobility mechanisms are impractical.</mark>
+
 <img width="1920" height="1080" alt="Ball_Bot v6" src="https://github.com/user-attachments/assets/4a45c339-c670-400d-b1d3-11b18d382bb4" />
 
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/d7799e7e-d84f-4402-b600-4edf23f9b628" />
