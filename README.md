@@ -1,4 +1,4 @@
-# Vibration-Induced-Locomotion-in-a-Spherical-Robot
+# Vibration-Induced-Locomotion-in-a-Spherical-Robot-With-Integrated-Gas-Sensor
 
 <img width="1920" height="1080" alt="Ball_Bot v6" src="https://github.com/user-attachments/assets/4a45c339-c670-400d-b1d3-11b18d382bb4" />
 
